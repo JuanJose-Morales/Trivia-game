@@ -1,0 +1,7 @@
+What is the capital of Venezuela?|Caracas|3
+Who is the winner of last World Cup?|France|3
+How many tires in a car?|4|1
+Who is the ceo of Tesla?|Elon|1
+Who invented Python?|Rossum|10
+How many days in a year?|364|1
+What is the name of the president|Donald|4
